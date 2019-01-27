@@ -1,6 +1,6 @@
 # vscode-standardjs-snippets
 
-originally forked from https://github.com/gaboesquivel/atom-standardjs-snippets, but we've added couple more. Also these are not using special characters because vscode doesn't accept them in the snippets.
+originally forked from https://github.com/gaboesquivel/atom-standardjs-snippets, but we've added couple more. Also, these are not using special characters because vscode doesn't accept them in the snippets.
 
 ## Standard JavaScript Snippets for Visual studio code
 
@@ -24,7 +24,7 @@ I mostly prefer snippets to have the top priority in the autocompletion. This is
 "editor.snippetSuggestions": "top",
 ```
 
-in your settings.json. Otherwise vscode prefers keywords on the top.
+In your settings.json. Otherwise, vscode prefers keywords on the top.
 
 ## Snippets
 
